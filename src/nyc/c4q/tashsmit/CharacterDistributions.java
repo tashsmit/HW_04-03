@@ -87,9 +87,6 @@ public class CharacterDistributions
 
         ArrayList<String> myArray = new ArrayList();
 
-        //URL myURL = stringToURL("http://www.google.com");
-        //System.out.println(get(myURL));
-
         File myfile = new File("/Users/c4q-tashasmith/Desktop/accesscode/HW_04-03/textfile.txt");
 
         myArray = calculate(myfile);
